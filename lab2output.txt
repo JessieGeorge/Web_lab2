@@ -1,0 +1,25 @@
+FUNCTION max1 OUTPUT:
+array = []
+ERROR: Empty array.
+array = [1,2,s]
+ERROR: Array contains a value which is not a number.
+array = [3,5,4,6,5]
+6
+
+FUNCTION max2 OUTPUT:
+array = []
+ERROR: Empty array.
+array = [1,2,s]
+ERROR: Array contains a value which is not a number.
+array = [3,5,4,6,5]
+6
+
+FUNCTION max3 OUTPUT:
+array = []
+ERROR: Empty array.
+array = [1,2,s]
+ERROR: Array contains a value which is not a number.
+array = [3,5,4,6,5]
+6
+
+[Done] exited with code=0 in 0.308 seconds
